@@ -1,3 +1,3 @@
-Firefighting Robot
+# Firefighting Robot
 
 This project presents a prototype Firefighting Robot designed to detect and suppress small-scale fires in hazardous environments, reducing risks to human firefighters. Built using an Arduino Uno microcontroller, the robot is equipped with flame, smoke, temperature, and ultrasonic sensors for real-time monitoring. It features a water-pumping system for fire suppression, remote control via Bluetooth, and autonomous obstacle avoidance. Powered by a rechargeable battery, the robot offers a compact and cost-effective solution for early fire detection and response, with future plans to enhance heat resistance, connectivity, and extinguishing capacity.
